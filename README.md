@@ -1,4 +1,4 @@
-# itrustworthy
+# $\mathcal{I}$-trustworthy
 This repo contains the codes, figures and datasets for the paper - $\mathcal{I}$-trustworthy Models. A Framework for trustworthiness evaluation of probabilistic classifiers.
 
 ## Abstract:
